@@ -3,3 +3,4 @@ wikipedia
 sentence-transformers
 numpy
 torch
+gunicorn
